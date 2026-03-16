@@ -10,4 +10,8 @@ Creado por *Brayan*
  CAMBIADO EN DESARROLLO
 >>>>>>> desarrollo
 "Actualizacion desde la web"
+<<<<<<< HEAD
 "cambios desde local"
+=======
+"cambios desde remoto"
+>>>>>>> 9921a9b5ffe071ca4466a0d4ce531e83e4d3c45d
