@@ -4,4 +4,8 @@
 Creado por *Brayan*
 ---
  - index.html: Página principal.
+<<<<<<< HEAD
  CAMBIADO POR EL MASTER
+=======
+ CAMBIADO EN DESARROLLO
+>>>>>>> desarrollo
